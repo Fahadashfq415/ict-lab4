@@ -8,3 +8,5 @@ My first Git repository for **Applications of ICT**.
 ## How to run
 1. Install Python
 2. Run `python hello.py`
+
+
